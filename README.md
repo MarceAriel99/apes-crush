@@ -22,7 +22,7 @@ The four possible weather states are 'Normal' ⛅, 'Cold' ❄, 'Hot' ☀, 'Rainy
 ### Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="KOTLIN" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MarceAriel99/apes-crush/assets/60658991/c9cbb8c8-c7d9-4096-9424-a4e97849846b" title="KOTLIN" alt="Kotlin" width="100" height="40"/>&nbsp;
+  <img src="https://github.com/MarceAriel99/apes-crush/assets/60658991/c9cbb8c8-c7d9-4096-9424-a4e97849846b" title="OPENWEATHER-API" alt="OpenWeather-API" width="100" height="40"/>&nbsp;
 </div>
 
 ## Trailer
